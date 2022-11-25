@@ -1,5 +1,5 @@
 {
-  "name": "react-table-hoc-fixed-columns",
+  "name": "@srajeshs/react-table-hoc-fixed-columns",
   "version": "2.4.0",
   "description": "ReactTable HOC for fixed columns",
   "main": "lib/index.js",
@@ -55,10 +55,16 @@
   "homepage": "https://github.com/guillaumejasmin/react-table-hoc-fixed-columns",
   "repository": {
     "type": "git",
-    "url": "git@github.com:srajeshs/react-table-hoc-fixed-columns.git"
+    "url": "git+ssh://git@github.com/srajeshs/react-table-hoc-fixed-columns.git"
   },
   "dependencies": {
     "classnames": "^2.2.6",
     "uniqid": "^5.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/srajeshs/react-table-hoc-fixed-columns/issues"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
