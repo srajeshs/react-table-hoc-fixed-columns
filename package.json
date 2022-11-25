@@ -1,6 +1,6 @@
 {
   "name": "react-table-hoc-fixed-columns",
-  "version": "2.3.4",
+  "version": "2.4.0",
   "description": "ReactTable HOC for fixed columns",
   "main": "lib/index.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "lib"
   ],
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.2.0 || ^17.0.0",
-    "react-dom": "^15.3.0 || ^16.2.0 || ^17.0.0"
+    "react": "^15.3.0 || ^16.2.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^15.3.0 || ^16.2.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.37",
@@ -55,7 +55,7 @@
   "homepage": "https://github.com/guillaumejasmin/react-table-hoc-fixed-columns",
   "repository": {
     "type": "git",
-    "url": "git@github.com:guillaumejasmin/react-table-hoc-fixed-columns.git"
+    "url": "git@github.com:srajeshs/react-table-hoc-fixed-columns.git"
   },
   "dependencies": {
     "classnames": "^2.2.6",
